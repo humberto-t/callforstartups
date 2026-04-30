@@ -30,22 +30,22 @@ export const CONTENT = {
       {
         num: "01",
         title: "Impact",
-        body: "At scale the innovation will make a significant contribution in alignment with the EAT Lancet 2.0 vision.",
+        body: "Shows strong potential with clear understanding of leverage points for transformation to drive net-positive change at scale in alignment with the EAT Lancet 2.0 vision for healthy, sustainable, and just food systems.",
       },
       {
         num: "02",
-        title: "Innovation",
-        body: "Innovation is based on a scalable technology with clear freedom to operate.",
+        title: "Business Stage",
+        body: "Demonstrated product/market fit with business model verified and ready to scale, typically in business stage Seed to Series A - open for pre-seed with some traction.",
       },
       {
         num: "03",
-        title: "Technology",
-        body: "Validated technology in laboratory or relevant environment.",
+        title: "Innovation",
+        body: "Innovation is based on a novel or technology-enabled approach that enables rapid, cost-effective scaling.",
       },
       {
         num: "04",
-        title: "Business Stage",
-        body: "Seed to Series A — open for pre-seed with some traction.",
+        title: "Technology",
+        body: "Validated technology in laboratory or relevant environment and shown it can be replicated or adapted across regions and contexts.",
       },
       {
         num: "05",
@@ -54,11 +54,16 @@ export const CONTENT = {
       },
       {
         num: "06",
+        title: "Capital",
+        body: "Clear funding needs with efficient use of capital and a concrete path to reach scale and impact.",
+      },
+      {
+        num: "07",
         title: "Team",
         body: "Founder(s) with proven relevant experience and full-time commitment.",
       },
       {
-        num: "07",
+        num: "08",
         title: "Benefit from support",
         body: "Support from Anchor Partners will bring a catalytic effect to winners.",
       },
@@ -111,7 +116,7 @@ export const CONTENT = {
     },
     framework: {
       title: "Alignment with the scientific framework",
-      sub: "Show us you understand EAT Lancet 2.0 and name the guardrails your solution moves.",
+      sub: "Show us you understand EAT Lancet 2.0 and name the planetary-health boundaries your solution moves.",
     },
     deck: {
       title: "Upload your pitch deck",
@@ -149,7 +154,7 @@ export const CONTENT = {
       label: "How does your innovation align with the EAT Lancet scientific framework?",
       placeholder:
         "Our ingredient displaces soy and fishmeal — two drivers of land-use change flagged in EAT Lancet…",
-      help: "Reference the specific guardrails you move. Quantify if you can.",
+      help: "Reference the specific planetary-health boundaries you move. Quantify if you can.",
       maxWords: 240,
     },
     deck: {
